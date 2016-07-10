@@ -21,6 +21,7 @@ function main() {
     helloLabel.x = 320;
     helloLabel.y = 240;
     stage.addChild(helloLabel);
+    helloLabel.text;
 }
 window.addEventListener("load", init);
 //# sourceMappingURL=game.js.map
